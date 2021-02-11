@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-02-11T08:37:19.353Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2021/02/11/hello-world/"/>
+    <id>http://example.com/2021/02/11/hello-world/</id>
+    <published>2021-02-11T08:37:19.353Z</published>
+    <updated>2021-02-11T08:37:19.353Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>My Test</title>
+    <link href="http://example.com/2021/02/11/My-Test/"/>
+    <id>http://example.com/2021/02/11/My-Test/</id>
+    <published>2021-02-11T07:05:36.000Z</published>
+    <updated>2021-02-11T07:05:36.576Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>AES加密与解密</title>
+    <link href="http://example.com/2021/02/08/AES/"/>
+    <id>http://example.com/2021/02/08/AES/</id>
+    <published>2021-02-08T15:55:27.000Z</published>
+    <updated>2021-02-11T05:18:43.215Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="AES加密与解密"><a href="#AES加密与解密" class="headerlink" title="AES加密与解密"></a><a href="https://github.com/DarkingForUnity/EditorTools/tree/master/Assets/Tools_DK/AES%E5%8A%A0%E5%AF%86%E4%B8%8E%E8%A7%A3%E5%AF%86">AES加密与解密</a></h2><ul><li>采用AES对信息进行加密与解密</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;AES加密与解密&quot;&gt;&lt;a href=&quot;#AES加密与解密&quot; class=&quot;headerlink&quot; title=&quot;AES加密与解密&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://github.com/DarkingForUnity/EditorTools/tree/m</summary>
+      
+    
+    
+    
+    <category term="Editor" scheme="http://example.com/categories/Editor/"/>
+    
+    
+    <category term="Unity" scheme="http://example.com/tags/Unity/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>三次贝塞尔曲线</title>
+    <link href="http://example.com/2021/02/08/Bezier/"/>
+    <id>http://example.com/2021/02/08/Bezier/</id>
+    <published>2021-02-08T15:55:27.000Z</published>
+    <updated>2021-02-11T04:42:43.813Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Bezier"><a href="#Bezier" class="headerlink" title="Bezier"></a><a href="https://github.com/DarkingForUnity/EditorTools/tree/master/Assets/Tools_DK/Json">Bezier</a></h2><ul><li>三次贝塞尔曲线<ul><li>设置三个点的坐标，通过贝塞尔曲线运算，在 LineRender 中插入坐标，使其拟合；<br><br>主要方法如下：<br></li></ul></li></ul><figure class="highlight c#"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">void</span> <span class="title">getBezier</span>(<span class="params"><span class="built_in">int</span> num</span>)</span></span><br><span class="line"><span class="function"></span>    &#123;</span><br><span class="line">        line.positionCount = <span class="number">0</span>;</span><br><span class="line">        Vector3[] vector3 = <span class="keyword">new</span> Vector3[num+<span class="number">1</span>];</span><br><span class="line">        <span class="keyword">for</span> (<span class="built_in">int</span> i = <span class="number">0</span>; i &lt;= num; i++)</span><br><span class="line">        &#123;</span><br><span class="line">            <span class="built_in">float</span> <span class="keyword">value</span> = ((<span class="built_in">float</span>)i / (<span class="built_in">float</span>)num);</span><br><span class="line">            vector3[i]= (<span class="number">1</span> - <span class="keyword">value</span> * <span class="keyword">value</span>) * tag0.transform.position + <span class="number">2</span> * <span class="keyword">value</span> * (<span class="number">1</span> - <span class="keyword">value</span>) * tag1.transform.position + <span class="keyword">value</span> * <span class="keyword">value</span> * tag2.transform.position;</span><br><span class="line">            <span class="comment">//Debug.Log(vector3[i]+&quot;   &quot;+ value.ToString(&quot;&quot;)+&quot;  &quot;+ num+ &quot;  &quot; + i);</span></span><br><span class="line">        &#125;</span><br><span class="line">        line.positionCount = vector3.Length;</span><br><span class="line">        line.SetPositions(vector3);</span><br><span class="line">        <span class="keyword">for</span> (<span class="built_in">int</span> i = <span class="number">0</span>; i &lt; vector3.Length; i++)</span><br><span class="line">        &#123;</span><br><span class="line">            line.SetPosition(i, vector3[i]);</span><br><span class="line">        &#125;</span><br><span class="line">        </span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Bezier&quot;&gt;&lt;a href=&quot;#Bezier&quot; class=&quot;headerlink&quot; title=&quot;Bezier&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://github.com/DarkingForUnity/EditorTools/tree/master/</summary>
+      
+    
+    
+    
+    <category term="Editor" scheme="http://example.com/categories/Editor/"/>
+    
+    
+    <category term="Unity" scheme="http://example.com/tags/Unity/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>读取Excel</title>
+    <link href="http://example.com/2021/02/08/Excel/"/>
+    <id>http://example.com/2021/02/08/Excel/</id>
+    <published>2021-02-08T15:55:27.000Z</published>
+    <updated>2021-02-11T04:38:01.220Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Excel"><a href="#Excel" class="headerlink" title="Excel"></a><a href="https://github.com/DarkingForUnity/EditorTools/tree/master/Assets/Tools_DK/Excel">Excel</a></h2><ul><li>读取Excel <ul><li><a href="https://www.cnblogs.com/XRTSDUT2008/p/6964856.html">参考链接</a></li></ul></li></ul><hr>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Excel&quot;&gt;&lt;a href=&quot;#Excel&quot; class=&quot;headerlink&quot; title=&quot;Excel&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://github.com/DarkingForUnity/EditorTools/tree/master/Ass</summary>
+      
+    
+    
+    
+    <category term="Editor" scheme="http://example.com/categories/Editor/"/>
+    
+    
+    <category term="Unity" scheme="http://example.com/tags/Unity/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Json读取与写入</title>
+    <link href="http://example.com/2021/02/08/Json/"/>
+    <id>http://example.com/2021/02/08/Json/</id>
+    <published>2021-02-08T15:55:27.000Z</published>
+    <updated>2021-02-11T04:39:18.554Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Json读取与写入"><a href="#Json读取与写入" class="headerlink" title="Json读取与写入"></a><a href="https://github.com/DarkingForUnity/EditorTools/tree/master/Assets/Tools_DK/Json">Json读取与写入</a></h2><ul><li>Json读取与写入<ul><li>在editor界面对Json读取与写入；</li></ul></li></ul><p>对Json数据的操作可以分为：读取数据，操作数据，写入数据。<br><br>首先，是对数据的读取：</p><figure class="highlight c#"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">StreamReader sr = <span class="keyword">new</span> StreamReader(Url, Encoding.UTF8);</span><br><span class="line"><span class="built_in">string</span> json = sr.ReadToEnd();</span><br><span class="line">sr.Close();</span><br><span class="line"><span class="keyword">if</span> (json.Length &gt; <span class="number">0</span>)</span><br><span class="line">&#123;</span><br><span class="line">skills_ = JsonUtility.FromJson&lt;Skills&gt;(json);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>读取文件采用从流中读取的方式，将json信息读取到本地对应的结构中。<br><br>将数据读取到本地后，就可以按照对一般数据操作的方式对数据进行操作。<br><br>操作完成后，将新的数据结构转换成json字符串，然后再写进json文件中<br> </p><figure class="highlight c#"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">string</span> json_ = JsonUtility.ToJson(skills, <span class="literal">true</span>);</span><br><span class="line">File.WriteAllText(Url, json_, Encoding.UTF8);</span><br></pre></td></tr></table></figure><hr>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Json读取与写入&quot;&gt;&lt;a href=&quot;#Json读取与写入&quot; class=&quot;headerlink&quot; title=&quot;Json读取与写入&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://github.com/DarkingForUnity/EditorTools/tre</summary>
+      
+    
+    
+    
+    <category term="数据操作" scheme="http://example.com/categories/%E6%95%B0%E6%8D%AE%E6%93%8D%E4%BD%9C/"/>
+    
+    
+    <category term="Unity" scheme="http://example.com/tags/Unity/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MapEditor</title>
+    <link href="http://example.com/2021/02/08/MapEditor/"/>
+    <id>http://example.com/2021/02/08/MapEditor/</id>
+    <published>2021-02-08T15:55:27.000Z</published>
+    <updated>2021-02-11T04:44:59.944Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="MapEditor"><a href="#MapEditor" class="headerlink" title="MapEditor"></a><a href="https://github.com/HansenKing/EditorTools/tree/master/Assets/Tools_DK/MapEditor">MapEditor</a></h2><ul><li>地图编辑器</li></ul><hr>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;MapEditor&quot;&gt;&lt;a href=&quot;#MapEditor&quot; class=&quot;headerlink&quot; title=&quot;MapEditor&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://github.com/HansenKing/EditorTools/tree/mas</summary>
+      
+    
+    
+    
+    <category term="地图编辑器" scheme="http://example.com/categories/%E5%9C%B0%E5%9B%BE%E7%BC%96%E8%BE%91%E5%99%A8/"/>
+    
+    
+    <category term="Unity" scheme="http://example.com/tags/Unity/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>QR Code</title>
+    <link href="http://example.com/2021/02/08/QR%20Code/"/>
+    <id>http://example.com/2021/02/08/QR%20Code/</id>
+    <published>2021-02-08T15:55:27.000Z</published>
+    <updated>2021-02-11T04:38:46.339Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="QR-Code"><a href="#QR-Code" class="headerlink" title="QR Code"></a><a href="https://github.com/DarkingForUnity/EditorTools/tree/master/Assets/Tools_DK/QR">QR Code</a></h2><ul><li>二维码生成器<ul><li>Local：本地生成；</li><li>Network request ：请求草料二维码API ，返回二维码图片，需要网络</li></ul></li></ul><h3 id="Loca："><a href="#Loca：" class="headerlink" title="Loca："></a>Loca：</h3><p>使用本地生成二维码需要引入“zxing.dll”文件，对字符串进行解析。</p><ul><li>1、将字符串数据转换成二维码数据：</li></ul><figure class="highlight c#"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">private</span> <span class="keyword">static</span> Color32[] <span class="title">Encode</span>(<span class="params"><span class="built_in">string</span> textForEncoding, <span class="built_in">int</span> width, <span class="built_in">int</span> height</span>)</span></span><br><span class="line"><span class="function"></span>    &#123;</span><br><span class="line">        <span class="keyword">var</span> writer = <span class="keyword">new</span> BarcodeWriter</span><br><span class="line">        &#123;</span><br><span class="line">            Format = BarcodeFormat.QR_CODE,</span><br><span class="line">            Options = <span class="keyword">new</span> QrCodeEncodingOptions</span><br><span class="line">            &#123;</span><br><span class="line">                Height = height,</span><br><span class="line">                Width = width</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;;</span><br><span class="line">        <span class="keyword">return</span> writer.Write(textForEncoding);</span><br><span class="line">    &#125;</span><br></pre></td></tr></table></figure><ul><li>2、将二维码数据交给对应的图片，目前图片的显示主要为UGUI中的Texture格式和Sprite精灵图片，以下就分别赋值给两种格式</li></ul><p>Texture：</p><figure class="highlight c#"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">static</span> Texture <span class="title">CreatQR_texture</span>(<span class="params"><span class="built_in">string</span> message</span>)</span></span><br><span class="line"><span class="function"></span>    &#123;</span><br><span class="line">        Texture2D encoded;</span><br><span class="line">        encoded = <span class="keyword">new</span> Texture2D(<span class="number">256</span>, <span class="number">256</span>);</span><br><span class="line">        <span class="keyword">if</span> (message.Length &gt; <span class="number">1</span>)</span><br><span class="line">        &#123;</span><br><span class="line">            <span class="comment">//二维码写入图片    </span></span><br><span class="line">            <span class="keyword">var</span> color32 = Encode(message, encoded.width, encoded.height);</span><br><span class="line">            encoded.SetPixels32(color32);</span><br><span class="line">            encoded.Apply();</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">else</span></span><br><span class="line">        &#123;</span><br><span class="line">            Debug.Log(<span class="string">&quot;生成二维码失败&quot;</span>);</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> encoded;</span><br><span class="line">    &#125;</span><br></pre></td></tr></table></figure><p>Sprite:</p><figure class="highlight c#"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">static</span> Sprite <span class="title">CreatQR_sprite</span>(<span class="params"><span class="built_in">string</span> message</span>)</span></span><br><span class="line"><span class="function"></span>    &#123;</span><br><span class="line">        Texture2D encoded;</span><br><span class="line">        encoded = <span class="keyword">new</span> Texture2D(<span class="number">256</span>, <span class="number">256</span>);</span><br><span class="line">        <span class="keyword">if</span> (message.Length &gt; <span class="number">1</span>)</span><br><span class="line">        &#123;</span><br><span class="line">            <span class="comment">//二维码写入图片    </span></span><br><span class="line">            <span class="keyword">var</span> color32 = Encode(message, encoded.width, encoded.height);</span><br><span class="line">            encoded.SetPixels32(color32);</span><br><span class="line">            encoded.Apply();</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">else</span></span><br><span class="line">        &#123;</span><br><span class="line">            Debug.Log(<span class="string">&quot;生成二维码失败&quot;</span>);</span><br><span class="line">        &#125;</span><br><span class="line">        Sprite sprite = Sprite.Create(encoded, <span class="keyword">new</span> Rect(<span class="number">0</span>, <span class="number">0</span>, encoded.width, encoded.height), Vector2.zero);</span><br><span class="line">        <span class="keyword">return</span> sprite;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure><h3 id="Net："><a href="#Net：" class="headerlink" title="Net："></a>Net：</h3><p>网络请求二维码，是直接调用草料二维码在线生成二维码API，通过解析返回页面，获取对应二维码图片，再交给对应图片对象；</p><ul><li><p>网络请求：</p><ul><li><p>查询草料官网的API，找到请求格式，这就是之后我们需要请求的地址；<br><br><img src="https://github.com/DarkingForUnity/DarkingForUnity.github.io/blob/main/images/%E8%8D%89%E6%96%99API.png" alt="QR"><br></p></li><li><p>在浏览器根据API的格式输入请求地址 <a href="https://cli.im/api/qrcode/code?text=https://DarkingForUnity.github.io">https://cli.im/api/qrcode/code?text=https://DarkingForUnity.github.io</a> <br></p></li><li><p>在浏览器界面按下F12，调出界面代码，依次点击 1、2，在3区域能看到二维码的图片链接，我们需要的就是提取<code>src=&quot;//</code>后面的图片链接。<br><br><img src="https://github.com/DarkingForUnity/DarkingForUnity.github.io/blob/main/images/QRpage.png" alt="QR"><br></p></li><li><p>将提取到的图片链接直接输入浏览器，就可以看到成功出现了二维码，就表示这个地址可用，我们可以在unity中使用该地址获取图片<br><br><img src="https://github.com/DarkingForUnity/DarkingForUnity.github.io/blob/main/images/QRpage1.png" alt="QR"><br></p></li></ul></li></ul><figure class="highlight c#"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">WWW w = <span class="keyword">new</span> WWW(<span class="string">&quot;https://cli.im/api/qrcode/code?text=&quot;</span> + message);</span><br><span class="line">       <span class="keyword">yield</span> <span class="keyword">return</span> w;</span><br><span class="line">       <span class="comment">//获取&#x27;src=&quot; //&#x27; 后所有的数据</span></span><br><span class="line">       <span class="built_in">string</span> s = w.text.Substring(w.text.IndexOf(<span class="string">&quot;&lt;img src=&quot;</span>) + <span class="number">12</span>, w.text.Length - (w.text.IndexOf(<span class="string">&quot;&lt;img src=&quot;</span>) + <span class="number">12</span>));</span><br><span class="line">       <span class="comment">//截取src=&quot;&quot; 内部的链接地址，不包括&#x27;//&#x27;</span></span><br><span class="line">       <span class="built_in">string</span> result = s.Substring(<span class="number">0</span>, s.IndexOf(<span class="string">&quot;\&quot;&quot;</span>));</span><br><span class="line">       </span><br><span class="line">       WWW www = <span class="keyword">new</span> WWW(result);</span><br><span class="line">       <span class="keyword">yield</span> <span class="keyword">return</span> www;</span><br><span class="line">       encoded.texture= www.texture;</span><br><span class="line"></span><br></pre></td></tr></table></figure><ul><li>获取图片信息后的赋值操作和上面的一样，就不重复赘述。</li></ul><p><img src="https://github.com/DarkingForUnity/DarkingForUnity.github.io/blob/main/images/QR.png" alt="QR"><br></p><hr>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;QR-Code&quot;&gt;&lt;a href=&quot;#QR-Code&quot; class=&quot;headerlink&quot; title=&quot;QR Code&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://github.com/DarkingForUnity/EditorTools/tree/mast</summary>
+      
+    
+    
+    
+    <category term="二维码" scheme="http://example.com/categories/%E4%BA%8C%E7%BB%B4%E7%A0%81/"/>
+    
+    
+    <category term="Unity" scheme="http://example.com/tags/Unity/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SpriteManage 精灵管理</title>
+    <link href="http://example.com/2021/02/08/SpriteManage/"/>
+    <id>http://example.com/2021/02/08/SpriteManage/</id>
+    <published>2021-02-08T15:55:27.000Z</published>
+    <updated>2021-02-11T04:37:14.981Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="SpriteManage"><a href="#SpriteManage" class="headerlink" title="SpriteManage"></a><a href="https://github.com/DarkingForUnity/EditorTools/tree/master/Assets/Tools_DK/SpriteManage">SpriteManage</a></h2><ul><li><p>精灵管理：</p><ul><li><p>检索场景中所有的空引用精灵图片；未激活spriterender组件的对象，未激活对象的spriterender；<br><br>对于频繁改动的场景素材，有时候会留下一些空图片或者暂时保留，隐藏，最后要删除的图片对象。<br><br>此脚本能帮助检索，识别以上对象，并进行一键清除组件或者清除对象。<br> </p><p><img src="https://github.com/DarkingForUnity/DarkingForUnity.github.io/blob/main/images/CheckEmptySprite.jpg" alt="引用图片"> <br></p></li><li><p>检索场景中引用到的精灵图集<br><br>1、能够检索到场景中使用的所有图片的地址、图片存放文件夹地址以及打包图集名称，检测出是否包含未打包图片以及筛选未打包图片<br><br>2、在引用过多过杂乱的情况下，提供一键迁移功能，能够将图片一键迁移到目标文件夹，并将图片引用地址转移到新图片。</p></li></ul></li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;SpriteManage&quot;&gt;&lt;a href=&quot;#SpriteManage&quot; class=&quot;headerlink&quot; title=&quot;SpriteManage&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://github.com/DarkingForUnity/Editor</summary>
+      
+    
+    
+    
+    <category term="Editor Sprite" scheme="http://example.com/categories/Editor-Sprite/"/>
+    
+    
+    <category term="Unity Sprite" scheme="http://example.com/tags/Unity-Sprite/"/>
+    
+  </entry>
+  
+</feed>
