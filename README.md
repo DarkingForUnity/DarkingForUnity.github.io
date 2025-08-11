@@ -60,6 +60,19 @@ File.WriteAllText(Url, json_, Encoding.UTF8);
 
 ---
 
+
+##### [brid-oid object鸟群算法](https://github.com/DarkingForUnity/EditorTools/tree/master/Assets/Tools_DK/Birds)
+* Boids 鸟群算法，全称 brid-oid object，类鸟对象
+	从它的三条核心规则开始说起，克雷格·雷诺兹 Craig Reynolds 从观测群聚动物的过程中发现了群聚动物的行为有以下三个特征：
+
+	* 分离 (Separation): 移动以避免拥挤整个集体 (steer to avoid crowding local flockmates)
+
+	* 对齐 (Alignment): 朝着周围同伴移动的平均方向移动 (steer towards the average heading of local flockmates)
+
+	* 聚集 (Cohesion): 朝着周围同伴的平均位置（质心）移动 (steer to move toward the average position of local flockmates)
+
+---
+
 ##### [SpriteManage](https://github.com/DarkingForUnity/EditorTools/tree/master/Assets/Tools_DK/SpriteManage)
 * 精灵管理：
 	* 检索场景中所有的空引用精灵图片；未激活spriterender组件的对象，未激活对象的spriterender；<br> 
